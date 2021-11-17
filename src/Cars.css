@@ -1,0 +1,19 @@
+.cars {
+  background-color: orange;
+  width: 40%;
+  margin-left: 40px;
+  padding: 0.8em;
+}
+
+.cars img {
+  width: 5rem;
+  height: 7rem;
+}
+.cars2{
+  display: flex;
+  margin: 1rem 0.5rem;
+  background-color: white;
+}
+.cars-text {
+  margin: 01.5rem;
+}
